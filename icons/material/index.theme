@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=Material
+Comment=Material Icons
+
+Directories=18x18
+
+[18x18]
+Size=18
+Type=Fixed
